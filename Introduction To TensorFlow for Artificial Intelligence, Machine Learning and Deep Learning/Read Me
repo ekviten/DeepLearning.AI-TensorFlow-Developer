@@ -1,0 +1,34 @@
+Week 1
+
+Welcome to this course on going from Basics to Mastery of TensorFlow. We're excited you're here! In Week 1, you'll get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All you need to know is some very basic programming skills, and you'll pick the rest up as you go along. To get started, check out the first video, a conversation between Andrew and Laurence that sets the theme for what you'll study...
+Learning Objectives
+*Monitor the accuracy of the housing price predictions
+*Analyze housing price predictions that come from a single layer neural network
+*Use TensorFlow to build a single layer neural network for fitting linear models
+
+
+Week2
+Welcome to week 2 of the course! In week 1 you learned all about how Machine Learning and Deep Learning is a new programming paradigm. This week you’re going to take that to the next level by beginning to solve problems of computer vision with just a few lines of code! Check out this conversation between Laurence and Andrew where they discuss it and introduce you to Computer Vision!
+Learning Objectives
+*Use callback functions for tracking model loss and accuracy during training
+*Make predictions on how the layer size affects network predictions and training speed
+*Implement pixel value normalization to speed up network training
+*Build a multilayer neural network for classifying the Fashion MNIST image dataset
+
+
+
+Week3
+Welcome to week 3! In week 2 you saw a basic Neural Network for Computer Vision. It did the job nicely, but it was a little naive in its approach. This week we’ll see how to make it better, as discussed by Laurence and Andrew here.
+Learning Objectives
+*Use callback functions to interrupt training after meeting a threshold accuracy
+*Test the effect of adding convolution and MaxPooling to the neural network for classifying Fashion MNIST images on classification accuracy
+*Explain and visualize how convolution and MaxPooling aid in image classification tasks
+
+
+
+Week4
+Last week you saw how to improve the results from your deep neural network using convolutions. It was a good start, but the data you used was very basic. What happens when your images are larger, or if the features aren’t always in the same place? Andrew and Laurence discuss this to prepare you for what you’ll learn this week: handling complex images!
+Learning Objectives
+*Reflect on the possible shortcomings of your binary classification model implementation
+*Execute image preprocessing with the Keras ImageDataGenerator functionality
+*Carry out real life image classification by leveraging a multilayer neural network for binary classification
